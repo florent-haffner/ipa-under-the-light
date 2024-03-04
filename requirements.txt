@@ -1,0 +1,12 @@
+scikit-learn==1.0.2
+torchsummary==1.5.1
+
+pandas==2.2.1
+numpy==1.26.0
+matplotlib==3.8.1
+seaborn==0.13.2
+
+jupyter
+jupyterlab
+tqdm==4.64.1
+shap==0.43.0
